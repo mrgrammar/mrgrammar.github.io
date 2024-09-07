@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on a Reading Skills website
 - 🌱 I’m currently learning GitHub
 - 👯 I’m looking to collaborate on game and puzzle websites
 - 🤔 I’m looking for help with webRTC
